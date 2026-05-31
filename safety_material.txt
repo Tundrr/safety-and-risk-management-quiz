@@ -1,0 +1,2111 @@
+Lecture 1
+
+General Introduction
+Who is the Engineer?
+Engineers create products and processes to satisfy the basic needs for food and shelter, and to enhance our
+everyday livess
+
+Innovation is viewed as the application of better solutions through more effective Products, processes,
+services, technologies, and business models.
+
+Innovation is an important part of the engineering process.
+Human factors engineering and safety engineering are important engineering disciplines.
+
+Safety, Definitions.
+• Danger: the negative consequence (or harm) that might be experienced (such as
+death, injury, illness, etc.)
+• Hazard: a source or cause of danger (i.e. water can cause drowning)
+• Risk: the probability of incurring harm at a certain level of severity
+• Severity: an objective or subjective measure of the harm or negative consequences
+(such as number of lives lost, money spent on insurance, voter wrath, etc.)
+An accident is an unintended, unanticipated, and uncontrollable single or multiple event
+sequence caused by unsafe acts, unsafe conditions, or both AND may result in immediate or
+delayed undesirable effects
+
+Direct Costs of Accidents
+Medical (doctor visits, physical
+therapy, medicine, etc.)
+
+•
+•
+
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Indirect Costs of Accidents
+Reduced productivity
+Accident investigation
+Administrative costs
+Lost time by supervisor
+Costs of training replacement worker
+Overtime
+Legal fees
+Equipment repair
+Negative publicity
+Damage to customer relations
+
+Accident: is an unplanned, undesired event that results in personal injury or property damage.
+Incident: is an unplanned, undesired event that adversely affects completion of a task.
+
+1|Page
+
+Major Injury accident: Forklift driver killed when heavy product pushes truck over
+
+Minor Injury accident: Forklift hits stack, product strikes employee
+
+No Injury Incident (near miss): Forklift hits stack, stack sways
+Hazard: Forklift operating in a tight aisle
+•
+•
+
+Accidents happen due to the inadequate in the safety management in the first place not only the failure in
+the equipment or installation.
+The safety management should be improved periodically.
+
+How to control safety?
+•
+
+•
+
+•
+
+Identify hazards.
+1. Knowledge and Recognition.
+2. Prioritization
+Maintain an acceptable level of safety through:
+1. Hazard elimination
+2. Hazard reduction
+• Move from engineering to administrative controls
+• Move from source to path to receiver
+3. Hazard communication
+Evaluate and assess safety program.
+
+Why “Safety”
+Social obligations:
+Moral and ethical reasons
+Worker morale
+Fiscal obligations, money (indirect and direct costs)
+Outlays
+Savings
+Value
+Legal obligations
+Laws and regulations
+Government agencies and authorities
+Egyptian Labor law
+OSHA standards and regulations
+
+2|Page
+
+Chapter 1&2
+
+Lecture 2
+
+Safety: Fundamental Concepts and Standards
+As managers deny this responsibility and attempt to leave the decision to employees which results a workplace
+with a low level of safety. Safety is both management and workers commitment
+OSHA: Occupational Safety and Health Administration.
+• Workplace Fatalities reduced by more than 67 %
+Any Accident has
+
+Direct costs which are the ones we think of first
+
+Indirect costs which are the ones that are less o
+bvious but they cost more than the direct ones
+Workers’ compensation Should be according to the degree of injury.
+Traditional Indexes of measuring accidents:
+•
+
+Frequency: number of cases per standard quantity of workhours.
+(includes only those cases in which the worker missed at least a day of work)
+
+•
+•
+
+Severity: lost workdays per standard quantity of workhours.
+Seriousness: the ratio of severity to frequency.
+
+New Index of measuring accidents:
+•
+
+The total injury-illness incidence rate
+𝑡𝑜𝑡𝑎𝑙 𝑖𝑛𝑗𝑢𝑟𝑦 − 𝑖𝑙𝑙𝑛𝑒𝑠𝑠 𝑖𝑛𝑐𝑖𝑑𝑒𝑛𝑐𝑒 𝑟𝑎𝑡𝑒 =
+
+•
+•
+
+number of injuries and illnesses including fatalities
+total hours worked by all employees during the period coverd
+
+× 200000
+
+Medical Treatment does not include simple first aid
+
+Simple First Aid.
+
+Abbreviation
+
+Word
+
+TRC
+LWDI
+
+Total-Recordable-Cases
+Lost-Workday-case
+Incidence rate
+Days Away from Work
+Injury and Illness case rate
+
+DAFWII
+
+Definition
+
+all recordable injury and illness cases, except fatalities
+counts injury (excludes illness) cases involving “lost
+workdays .Fatalities are not included
+injury and illness cases that involve days away from
+work. Fatalities are not included
+
+Record Keeping is Important for Safety and health program. (Forms and reports).
+Safety is the state of being Safe, protected against accidents and it is also the control of hazards
+•
+•
+
+Occupational safety: The avoidance of industrial accidents that cause injury and fatality.
+Occupational Health: avoidance of diseases and disorders induced by exposure to materials or
+conditions in the workplace
+Risk is the chance of injury, damage, or loss
+Risk = Probability * Severity
+Probability: is Measure of chance of that hazard causing harm.
+Severity: a measure of the harm.
+
+3|Page
+
+Lecture 3
+
+A Typical Safety Management Program
+A typical Safety Management Program Includes:
+I.Management Commitment (TMC)
+It is how much Time, Money, and Concern the employer gives to the safety
+II.Effective Accountability
+Companies Should:
+• Encourage Safety.
+• Require Managers to do safety planning.
+• Provide Employees with adequate training.
+III.Employee Involvement
+• Individual Motivation.
+• Individual Abilities.
+• Leadership and communication.
+Heinrich’s 88:10:2 ratio which is Unsafe acts: Unsafe conditions: Unpreventable causes
+To minimize Hazards One must be able to
+1. Recognize hazards
+2. Define preventive actions
+3. Assign someone to implement preventive actions
+4. Provide means for measuring effectiveness
+IV.Hazard Identification and control.
+1. The Four Ms Model
+A model stating the possible factors of industrial accidents.
+• Man: Related to human mistakes (the direct cause of
+accidents)
+It is any act by the human that can reduce the safety or lead
+to an accident. There are two types of human errors:
+- Omission errors: Worker fails to take action that is called for.
+- Commission Errors: Worker takes action, but it is wrong.
+There is Factors affecting the accident rate due to the human.
+- Age: Accident rates increase with the young persons and elderly.
+- Time on job: Accident rate increases in the first three years in job.
+- Fatigue: reduce Awareness
+- Stress: reduces available attention resources. (reasons may not be work related)
+
+4|Page
+
+• Machine (job factors): anything is used in the operation Accident rates are higher in
+some industries as they are more dangerous than others.
+Main job factors:
+- Methods: May be Manual, mechanized, or automated. (if completely manual that
+will increase fatigue which will increase the human error and accidents, if completely
+mechanized the equipment present its own risks of accidents).
+- Machine: is useful in industry for its ability to apply high forces and power.
+This
+ability presents three categories of hazards which is Electrical, mechanical and
+temperature hazards (Which will be studied later)
+- Material: Materials that cause hazard is classified into:
+1. Corrosive: Acidic substances that can burn human skin
+2. Toxic: poisons that disturb the normal body processes.
+3. Flammable: Present hazard of fire and explosion.
+• Media: Environmental Factors which is any condition that surrounds the operation
+Physical Factors as lighting, noise, temperature, humidity, fire and radiation hazards
+Social Factors as Management polices and practices, Social and culture norms, Training
+and instruction, safety programs and place.
+• Management: there must be a policy stating the importance of safety, it assigns
+Responsibility, Authority And accountability. It has an extension called produce for
+implementation.
+
+2. Domino Theory (Heinrich, 1932)
+This theory postulates that the events, which lead to an injury, are like five
+dominos, standing on end, ready to knock each other over in turn.
+
+5|Page
+
+3. Fishbone Diagram (6Ms)
+
+Machine
+
+Method
+
+Man
+
+Media
+4. Swiss Cheese Diagram
+
+V.
+
+Accident Analysis/Investigation.
+Proactive Approach is doing everything to anticipate and prevent accidents.
+Preventive Actions should focus on Accidents and their causes and less attention
+should be placed on effects.
+Experiment 300:29:1 Ratio will help as there is 330 accidents of the same kind.
+Reactive Approach is doing everything to limit losses after an accident occurs.
+
+6|Page
+
+VI.
+
+Education and training
+Knowing all the ways you can get hurt at work, can help you stay safe.
+
+VII.
+
+Program Evaluation
+
+❖ Incidence Rate how many incidents of a certain kind occurred during a given year
+𝑵𝒓𝒄
+𝐈𝐑 = 𝟐𝟎𝟎𝟎𝟎𝟎
+𝑯𝒋𝒆
+❖ Severity Rates tracks number of lost workdays due to illness or injuries.
+𝑵𝒍𝒘𝒅
+𝐒𝐑 = 𝟐𝟎𝟎𝟎𝟎𝟎
+𝑯𝒋𝒆
+❖ Average Severity
+𝑵𝒍𝒘𝒅
+𝐀𝐒 =
+𝑵𝒓𝒄
+❖ Average Days Away From Work
+𝑵𝒍𝒘𝒅
+𝐀𝐃𝐀𝐖 =
+𝑵𝒄𝒍𝒘𝒅
+𝑵𝒓𝒄
+𝑯𝒋𝒆
+
+= Number of recordable cases during a given period of interest.
+= worker Hours of job exposure during same period.
+200,000 is for 100 employees working 2000 hr/year
+𝑵𝒍𝒘𝒅 = Number of lost workdays during period of interest.
+𝑵𝒄𝒍𝒘𝒅 = Number of cases involving lost workdays.
+
+7|Page
+
+The first and preferable line of defense would be to find some way to eliminate the source of the noise
+exposure.This might be a process change that results in quieter equipment or it could be
+the isolation of the equipment in a room where employees are not exposed to the noise
+hazard. An administrative or work-practice control would be to schedule employees on
+a rotation basis so that the exposure to the excessive noise would be limited to short
+durations.This approach might be combined with the engineering approach of isolating
+the noise source in a separate room, accessed on a short-term basis only when necessary
+by essential personnel.The last resort should be personal protective equipment or hearing protectors, which
+depends for its effectiveness upon employee actions to actually
+wear the protective equipment and wear it properly
+
+scaffold components is 4:1. For overhead crane hoists, the factor is 5:1, and for scaffold ropes, the factor is 6:1
+additional principles of engineering design that consider the consequences of component failure within the system.
+These principles are labeled here as fail-safe principles, and three are identified:
+1. General fail-safe principle The resulting status of a system, in the event of failure of one of its components, shall be in a safe mode.
+2. Fail-safe principle of redundancy
+3. Principle of worst case
+
+Accident analysis is not used nearly enough to assist in the other approaches to hazard avoidance. The enforcement approach
+would be much more palatable to the public if the enforcing agency would spend more time analyzing accident histories
+
+Lecture 4
+
+Hazards Categories in Workplace
+I.
+
+II.
+
+Structure collapse/failure
+Results when structural elements fail.
+May be Caused by:
+- Natural phenomena (Earthquakes, tornados or severe storms)
+- Design and construction defects
+- Fire or explosion
+There are two ways of structural collapse:
+- Explosion: building collapse to the outward direction for any reason.
+- Implosion: when the walls building is pulled into the center of mass.
+Walk and fall hazard:
+- Tripping, slipping and falls
+- Falls result in 15-20% of all accidental deaths and injuries
+- Slips, trips, and falls make up the majority of general industry accidents
+- Are second only to motor vehicle crashes
+- There are three dangerous attitudes that lead to fatal falls:
+o I do not work very high (25%(<10ft), 25%(>30ft))
+o I’ll catch myself
+(6 feet within 0.5 second &16 feet within 1 second.)
+o I have a good balance (Controlled work conditions)
+- Common Fall Hazards
+o Overhead Platforms
+o Overhead Runways
+o Elevated Workstations
+o Floor Openings/Pits
+o Wall Openings
+- Fall Hazard Control
+o First line of defense (Eliminate the fall
+hazard)
+- Make the gauge at the ground level
+- Use drones for inspections at height.
+Hole covers/grates
+- Designed to withstand intended load
+- Secured-bolted, hinged, latched, locked
+- Authorized person for opening/closing
+
+8|Page
+
+-
+
+9|Page
+
+o Second line of defense (Prevent the fall)
+- Guard Rails
+Standard railing
+Top rail, mid rail, and posts
+Height from upper surface of top rail to floor level is 42” (+/− 3”)
+Mid-rail height is 21”
+Standard toe board
+3.5” high
+nchorages
+Not more than ¼” clearance above the floor
+- Fences and barricade
+Prevent unauthorized employee to fall hazard
+omponents
+Protect the authorized person from the fall
+hazard
+- Personal Fall Arrest system
+Used to keep worker from reaching fall hazards
+Body belt or harness
+Used when guard rail or hole cover are removed.
+o Third and last resort (Control the fall)
+- Positioning Devices
+- Consists of a body belt and connecting
+device
+- Allows the workers to use hands as they
+don’t need to use it to hold themselves.
+1. Unless working on a ladder, scaffold or scissor
+lift, OSHA requires fall protection when exposed
+to a 4-foot fall or greater
+- Safety Net Systems
+specially designed mesh nets, panels, they are
+used as protection for those who work 25 ft or
+more above the lower level.
+Employer Requirements
+▪ Training
+- Possible fall hazards in your work
+- Methods used to protect you from these hazards
+- Proper and safe use of any hazard prevention systems
+- Applicable OSHA standards
+
+ody harness
+
+▪ Inspection
+- Your employer must inspect the workplace for possible source of hazard
+and make sure that the fall hazard control systems is applied
+- You must inspect your positioning and fall control system each use
+▪ Rescue
+- Personal fall arrest system requires a rescue plan.
+- Employer must communicate the rescue plan to all involved.
+III.
+
+Electrical Hazards
+❖ Causes
+1. Insufficient insulation.
+2. Wetting of the workplace and machine.
+❖ Types of electrical injuries
+B=burn
+Direct:
+E= electrocution
+- Electrocution or death
+S= shock
+- Electrical Shock
+A= Arc flash/Blast
+- Burns
+F= fire
+❖ Factors of how electrical hazard affect the human body.
+- Current Flow (the greatest danger to human in electricity) E= explosion
+- The path taken through the body Duration of the shock
+- “Freeze current” which is the current results the worker to stick to the electric
+conductor
+- “Let-go current” the current at which the person can release his hand
+❖ Detection of electrical hazards
+
+❖ How to reduce the electrical Hazards?
+1. Use of double insulation
+2. Use fuses and circuit breakers
+3. Make sure of grounding of machines.
+4. Block the areas of exposed energized equipment
+5. Pre-plan work, post hazard warnings and use protective measures
+6. Keep working and walking spaces clear of cords, cables or wires
+7. Training:
+
+10 | P a g e
+
+-
+
+Special training is required for authorized people to work on electrical
+equipment and it covers:
+- Safe work practices
+- ONLY authorized People may
+- Isolation of electrical sources
+deal with electrical work.
+- Test Equipment
+8. Use of locks and tags
+- Tools and PPE
+9. Electrical Safety Program.
+In US electrocution accounts for almost 6% of all workplace deaths so an
+electrical safety program must be applied:
+1. Ensure compliance with existing OSHA
+2. Provide adequate training.
+3. Conduct safety meetings regularly
+4. Inspect work sites
+5. Encourage all workers to participate in workplace safety.
+6. Make hazard analysis to identify potential electrical hazard and safety
+interventions.
+
+Lecture 5
+
+Hazards Categories in Workplace (cont’d)
+IV.
+
+Mechanical Hazard and Machine Safeguarding
+Mechanical hazards are associated with the power-driven machines, or mechanical
+devices whether automated or manually operated.
+• Safety and health engineers must have knowledge about what makes a machine
+dangerous (the hazards caused by this machine)
+• Machine Hazards in order from the more dangerous to the less
+1. The point of operation.
+2. The power transmission (pulleys and belts)
+3. in-running nip point, ingoing nip points occurs
+In this type of hazards
+•
+•
+
+The moving material passes adjacent to or in contact with machine parts.
+can cause indirectly by catching loose clothing and drawing the worker into the
+machine.
+
+There is many types of mechanical motions and actions as:
+Rotating (including in-running nip points)
+Cutting The seriousness of cutting or tearing the skin depends
+Pinching on how much damage to the skin, and muscles.
+Bending
+11 | P a g e
+
+Reciprocating
+Punching
+Shearing :
+often amputated
+fingers and hands
+
+And Rotation Motion Includes the following mechanisms:
+Couplings
+Clutches
+Cams
+
+• Mechanical Hazards:
+1. Power transmission:
+2. Shearing
+• Power-driven shears are widely used in manufacturing
+with paper, metal, and plastic.
+• Often cause amputated fingers or hands when the
+worker but his hand under the shearer for
+adjustment.
+3. Crushing
+Happens between part of the bogy got in between to
+progressively moving 2 parts in the machine. There are
+two types of Crushing Hazards:
+• Squeeze-point type
+Happens when body get in between two parts of the
+machine and one is in motion.
+
+• Run-in point type/In-running nip point hazards
+Happens when body get in between two parts of the
+machine and one is rotating.
+
+4. Breaking
+Machines can cause bone breaking and that can be
+• Simple/incomplete : where the bone still one piece but
+cracked and skin is not effected .
+• Compound/Complete: where the bone is divided into two or
+more pieces and the surroundings are affected.
+
+• Safeguarding:
+Any machine part, function, or process which may cause injury must be safeguarded.
+• Direct: Machine Malfunction
+• The Cause of Danger may be:
+•
+
+Indirect: Chips, Chemicals, And hot metal splashes
+
+• Types of Machine Guarding Systems:
+- Devices:
+o Presence sensing
+o Photoelectrical (optical)
+
+o Radio frequency
+o Electromechanic
+al
+•
+
+12 | P a g e
+
+-
+
+Guards:
+o Fixed:
+
+o Interlocked
+Can be mechanical
+
+o Adjustable
+
+13 | P a g e
+
+Or Electrical.
+
+Max Gap Allowable gaps Grinder
+
+Zero Mechanical State
+After shutdown energy such as pneumatic or hydraulic pressure, electrically charged capacitors, spring tension or
+compression, or kinetic energy from flywheel rotation
+
+Point of operation Safeguarding that Provides a barrier
+for an unintended/unplanned
+:
+contact with the point of operation
+
+Gate Safeguarding system:
+If the gate does not fully close, machine
+will not function.
+
+Two-Hand Control
+Requires the worker to constantly press on specific
+buttons which are a safe distance apart from the
+danger zone, And the machine will not operate till
+the 2 buttons are correctly pressed.
+
+Safeguarding by Location/Distance
+Making the control panel in a safe distance away
+from the operating point which will guarantee
+worker’s safety of the operation point hazards.
+
+Slitter Guarding
+
+14 | P a g e
+
+In inches
+
+• Machine Safety Responsibilities
+1. Management
+Ensure all machinery is properly guarded.
+2. Supervisors
+▪ Train employees on specific guard rules in their areas
+▪ Ensure machine guards remain in place and are functional.
+▪ Immediately correct machine guard deficiencies
+3. Employees
+▪ Do not remove guards unless machine is locked and tagged.
+▪ Report machine guard problems to supervisors immediately
+▪ Do not operate equipment unless guards are in place.
+V.
+
+EXTREME TEMPERATURE HAZARDS
+
+Controlling temperature, humidity and air distribution is a part of providing safe
+workplace as the extreme cold or hot can be uncomfortable and dangerous for the
+workers so the heat stress, cold stress and burns are major concerns of the modern
+safety and health professionals.
+• Thermal comfort:
+▪ Temperature
+▪ Humidity
+
+▪ Air distribution
+▪ Other
+
+• Basic concepts
+1. Conduction: is the transfer of heat between two bodies that are touching or from one
+location to another within a body.
+2. Convection: is the transfer of heat from one location to another by way of a moving
+medium (gas or liquid).
+3. Metabolic heat: is produced in a body because of activity that burns energy.
+
+• Heat stress and strain
+• Heat stress: is the net heat load to which a worker may be exposed from the
+combined contributions of metabolic effect of work, environmental factors, and
+clothing requirements.
+• Heat strain: is the overall physiological response resulting from heat stress.
+• How to recognize the presence of heat strain?
+• Sustained rapid heart rate (180-age of the worker)
+• Core body temperature (>38.5)
+• Sudden and sever fatigue.
+
+15 | P a g e
+
+• Heat stress management
+Safety and health engineer should ensure that a comprehensive
+heat stress management program is placed.
+
+• General controls
+• Provide accurate verbal and written instructions.
+• Training programs
+• Encourage drinking small volumes of cool water every 20 min.
+• Monitor those employees who take medications.
+• Encourage healthy lifestyle.
+• Specific controls
+• Engineering control to provide air movement, and reduce process heat
+• Set the acceptable exposure times (WTT)
+• Personal protective equipment
+
+• Cold stress
+• Excessive exposure to cold can lead to hypothermia, which can be fatal.
+• Health and safety engineers should prevent the deep body temperature from falling
+below 36.
+• Excessive exposure to cold stress can result in:
+• Reduced alertness.
+• Poor decision making.
+• Reduced muscular function.
+• Reduced blood flow.
+• Reduced function of the nervous system.
+• Wind speed can majorly reduce the temperature so the air distribution must be but in
+consideration.
+• How to prevent Cold Stress?
+• Apropriate PPEs including face, head, and ear protection.
+• When wind exists, reduce its effect by wind screen and wind breaking clothes.
+• When the chance of getting wet exists, wear impermeable clothes.
+• Use auxiliary heat applied directly to the hands and feet.
+• Employees should be under continues observation.
+• Do not allow new employees to work full time until they accommodate to the
+environment.
+
+16 | P a g e
+
+• Burns and their effects.
+Burns are one of the dangers that are caused by heat hazards and they are very
+dangerous as they cause malfunctional of the skin.
+1. First degree: minor and results in mild
+inflammation of skin (like sunburn)
+2. Second degree: easily recognizable due
+to the blisters that from on the skin (Can
+be caused by a temperature of 98.9°C)
+3. Third Degree: can be fetal, depends on
+the amount of body affected (caused by
+steam or hot liquids)
+
+Lecture 6
+
+Hazards Categories in Workplace (cont’d)
+Ergonomics is a multidisciplinary science that studies human physical and psychological
+
+VI.
+
+Manual Material Handling Issues
+
+❖ Manual Material handling Consideration
+▪ Material Manual Handling is
+• a task that almost every worker performs, either as a
+one-time or infrequent duty or as part of regular work
+• an important application of ergonomic principles that
+particularly addresses back injury prevention.
+▪ Materials Handling Activities:
+1. Lifting/Lowering: Raising an object to a higher place, and lowering is the opposite.
+2. Pushing/Pulling: Pressing with force to move smth forward, and pulling is opposite.
+3. Twisting: The act of rotating the upper body while the lower is relatively fixed.
+4. Holding: Holding an object in worker’s grasp while Staying still.
+5. Carrying: Holding an object in worker’s grasp while moving.
+- MMH is a major and common cause of occupational fatigue an low back pain.
+- About 75% of workers with MMH as a part of their job suffers low back pain.
+- Back injuries is the cause of about one third of LWD & 40% of compensation costs.
+- More important than financial loss is the human suffering.
+
+❖ Work Factors Contribute to Back Injury During MMH.
+1. Weight of the load lifted: For most workers, weight over 20 kg causes back injury
+2. Range of the lift: The preferred range is between knee and waist height.
+3. Location of the load to the body: A load lifted from a place away from the body
+imposes more stress on back.
+
+17 | P a g e
+
+4. Size and shape of the load: Bulky objects is harder to handle than a regular object of
+
+the same mass as its center of mass can not be close to the body.
+5. Frequency of lifts: Number of lifting times and duration of holding are important
+factors.
+6. Excessive bending and twisting:
+
+Poor layout of the workplace also increases the risk for injury. For example:
+- Shelves those are too deep, too high, or too low causes unnecessary. bending
+or stretching.
+- Lack of space to move freely increases the need for twisting and bending
+- Unsuitable dimensions of benches, tables, and other furniture.
+- Similar stressful body movements occur where work areas are overcrowded
+with people or equipment.
+National Institute for Occupational Safety and Health
+
+❖ Revised NIOSH equation for the design and evaluation of manual lifting tasks
+-
+
+They consider the weight plus several other variables that Affect the risk of injury.
+e.g., A situation that requires frequent lifting or the targeted object is far from the body
+o the worker has a higher risk. In this situation the weight load will be reduced from
+“LC” -Load constant- to “RWL” Recommended Weight Limit.
+- “LC” of 23 kg (51lb) was established by NIOSH as a load that is safe for 75% of females
+and 90% of males.
+- The recommended weight limit is calculated by using the NIOSH lifting equation.
+Variables controlling the “RWL.”
+1. Horizontal distance (H): The distance load is lifted (distance of hands from midpoint
+between ankles)
+2. Vertical location (V): the starting height of the hands from the ground
+3. Vertical distance of lifting (D): e.g., straight in front of you or off to the side
+4. Time between lifts or frequency of lifting (F)
+5. Angle of the load in relation to the body (A)
+6. Quality of the grasp or handhold based on the type of handles available (C)
+
+Multipliers in the workplace:
+1.
+2.
+3.
+4.
+5.
+6.
+
+HM, the "Horizontal Multiplier" factor
+VM, the "Vertical Multiplier" factor
+DM, the "Distance Multiplier" factor
+FM, the "Frequency Multiplier" factor
+AM, the "Angle Multiplier" factor
+CM, the "Coupling Multiplier" factor
+
+18 | P a g e
+
+AM
+
+where LC is the load constant (23 kg or 51 Ib)
+
+Multipliers in the workplace:
+
+1. HM, the "Horizontal Multiplier" factor
+In cm - from the midpoint between the
+ankles to the hands while holding the
+object.
+
+2. VM, the "Vertical Multiplier" factor
+In cm - The vertical distance of the hands
+from the ground at the start of
+the lift.
+
+3. DM, the "Distance Multiplier" factor
+The vertical distance (D, in cm) that the
+load travels.
+
+4. FM, the "Frequency Multiplier" factor
+The frequency of lifts and the duration of
+lifting (in minutes or seconds) over a work
+shift
+
+19 | P a g e
+
+5. AM, the "Angle Multiplier" factor
+The twisting angle (A) of the body while
+lifting, measured in degrees
+
+6. CM, the "Coupling Multiplier" factor
+The quality of grasp (or coupling, C)
+classified as good, fair, or poor and
+depends on the body position (either
+standing or stooping).
+If the RWL is below the weight of the object handled, then the task is
+dangerous and must be redesigned.
+❖ Example 1: A worker lifts 10 kg boxes from the conveyor to the
+cart ten times every minute for two-hours.
+Answer:
+1. Step 1: Determine the weight of the load : 10 Kg
+2. Step 2: Assess the six components of the lifting task.
+3. Step 3: Select the appropriate multiplier factors for each
+component of lifting from the tables.
+
+4. Step 4: Determine the Recommended Weight Limit for the task.
+23 kg x 1 x .99 x 1 x 0.13 x 0.71 x 1 = 2 .1 kg
+5. Step 5: Compare weight of the load against determined Weight Limit for the task.
+The weight of the load at 10 kg is higher than the calculated recommended weight limit of 2 .1
+kg.
+6.
+
+Therefore, TASK IS DANGEROUS.
+
+20 | P a g e
+
+American National Standards Institute (ANSI) Standard :
+• Management responsibilities • Training • Employee involvement • Surveillance
+• Evaluation and management of MSD cases • Job analysis • Job design and intervention
+
+Force. The amount of effort needed to accomplish a task
+• Repetition. The number of times a given task must be accomplished
+• Awkward postures. When a body part is out of its neutral position
+• Static postures. When a given posture is maintained for an extended amount of time
+• Vibration. When a part of the body comes in contact with a vibrating tool or surface
+• Contact stress. Contact between sensitive body tissues and hard objects
+• Cold temperatures [Environmental]. Exposure to adverse environments such as
+excessively hot or cold temperatures, air pollutants, noise, and others (Elements
+of Ergonomics Programs, 1997)
+
+Recommendations:
+7. Assess which of components most contribute to the risk.
+the critical factor is FM for the frequency of lifting and
+duration of task.
+8. Shorten the frequency of lifting by:
+i. reducing the frequency of incoming boxes in half
+ii. assigning additional workers to the task
+iii. shorten the time of the task to 1 hour.
+9. Evaluating the Redesigned Task:
+- Assess the six components of the task in redesigned task.
+- Determine new Weight Limit. (23 kg x 1 x 0.99 x 1 x 0.75 x 0.7 x 1 = 12.125 kg)
+- Compare weight of the box against Recommended Weight Limit for redesigned task.
+The weight of the load at 10 kg is now lower than the weight limit calculated to be 12.125 kg.
+- Therefore, MOST WORKERS CAN SAFELY PERFORM THE TASK.
+
+Lecture 7
+
+Hazards Categories in Workplace (cont’d)
+VII.
+
+Fire Hazards
+
+❖ Introduction.
+A chemical reaction between oxygen and a combustible material results in heat, smoke, and light
+It requires Oxygen, Fuel, and ignition source for fire to occur.
+There are many examples of ignition sources such as Open flames, Smoking, Static electricity,
+Hot work (welding - cutting), Hot surfaces, Electrical and mechanical sparks, Lightning.
+
+❖ Fire Prevention Plan (FPP)
+The FPP must be: written, kept in workplace, and available for all the employees.
+The Employer must: Inform the employees of the fire hazards when assigned to the job review
+the FPP with every employee.
+The FPP include: • Lists of all major fire hazards, proper handling, and storage of hazardous
+•
+•
+•
+
+materials, ignition sources/controls, and fire protection equipment.
+Procedures to control flammable/combustible wastes
+Procedures for maintenance of safeguards on heat-producing equipment
+Name/job titles of employees with responsibilities for maintenance of
+equipment and control of hazards
+
+Tasks require fire protection.
+• Dispensing flammables and combustibles: gasoline, diesel, or natural gas
+• Flammable wastes: solvent waste, oily rags, and flammable liquids
+Dust Explosions
+Imperial Sugar Refinery in Port Wentworth, Georgia, a suburb of Savannah.
+Several lessons can be learned from Case Study 13.1:
+1. Dust explosions are a serious hazard.
+2. Housekeeping to minimize airborne combustible dusts should be a priority.
+3. Corrective actions after a major accident has occurred are essential.
+4. Prevention is an important ingredient in an overall fire protection program.
+21 | P a g e
+
+Handling of flammable hazards
+• Only use approved metal safety containers or original manufacturer’s containers for storage.
+• Practice good housekeeping.
+• Keep containers closed when not in use.
+• Store away from exits or passageways.
+• Keep away from ignition sources.
+Equipment:
+• PPEs. (will talk about it in a separated lecture)
+• Fire suppressions. • Portable fire extinguishers
+•
+
+Fixed systems
+
+❖ Emergency Action Plan (EAP)
+Benefits
+•
+
+Written to facilitate actions
+during emergency.
+Less severe injuries.
+Less structural damage.
+Reduce confusion.
+
+•
+•
+•
+•
+
+Required elements
+
+Purpose
+•
+
+•
+•
+•
+•
+•
+
+Describe what should be done
+during an emergency to guarantee
+employees’ safety.
+Show escape routes.
+Tells employees what to do.
+Covers expected emergences.
+
+Training employees on the EAP
+1. Review plan with each employee in the following
+times.
+• When the plan is created
+• When the new employees are assigned
+• When any changes are done to the plan or
+the responsibilities of any employee.
+2. Practice the Plan.
+3. Educate/train.
+• Types of emergencies
+• Course of actions
+• Functions and elements of EAP
+• Special hazards
+• Fire hazards and fire prevention plan
+
+❖ Evacuation
+Workplace evacuation may be required for:
+
+22 | P a g e
+
+•
+•
+•
+•
+•
+•
+•
+
+Means of reporting.
+Evacuation procedures
+emergency escape routes
+Procedures for critical operations
+Accounting of employees
+Rescue and medical duties
+Contact persons.
+
+General training
+•
+•
+•
+•
+•
+
+Roles and responsibilities
+Threats, hazards, protective actions
+Notification, warning, communications
+Location/use of emergency equipment
+Procedures
+o Emergency response
+o Evacuation and shelter-in-place
+o Assembly and accounting of employees
+o Emergency shutdown.
+
+Examples of procedures:
+•
+•
+•
+
+Methods of reporting an emergency.
+Instructions for exit.
+Instructions for limited mobility.
+
+Factors affecting response to emergencies:
+• Type/extent of emergency
+• Location of emergency
+• Type of building in which workplace is located.
+• Shutting down critical operations
+Fire emergencies: Fight or Flee?
+Options for evacuation
+
+Performing a risk assessment
+
+1. Total Evacuation.
+2. Designated employees authorized to fight fire.
+(All other evacuate)
+3. All employees fight fire
+4. Extinguishers provided but not intended for
+employee use.
+
+•
+•
+•
+•
+
+Is the fire too big?
+Is the air safe to breathe?
+Is the environment too hot or smoky?
+Is there a safe evacuation path?
+
+Evacuation Maps
+Must show:
+
+Actions Taken through Evacuation:
+1. Alerting employees • Alarm
+•
+
+Annunciator panel/speaker
+
+2. Accounting for who has exited (How is that accomplished)
+3. Keeping employees informed •
+•
+
+All clear, re-enter, or remain at assembly point.
+Clear to leave workplace.
+
+Exit Routes:
+Is Continuous and unobstructed path of exit travel from any place in workplace to (a place of) safety.
+Should be:
+
+Basic Exit route requirements
+• Permanent
+• Separated by fire-resistant materials
+• Limited openings
+• Adequate number of exit routes
+• Discharge leading directly outside or to a place with access to outside
+• Exit door unlocked from inside and side-hinged
+• Adequate capacity
+23 | P a g e
+
+•
+•
+
+Minimum height and width (2-2.3 and 0.711 m)
+Clearly communicate 2 elements of escape route
+• Exit access pathway
+• Nearest exits from all points of building
+• Pathway away from building structure.
+
+•
+•
+
+The signs lead to the nearest exit
+for each place
+
+•
+
+No use of elevators to reach an
+emergency exits.
+
+Indicates Exits with
+wheelchair access
+
+Exits should
+be more
+than one
+exit.
+
+Determines
+where the map is to aid
+24 | P a g e
+worker get to the nearest exit
+
+No Exit into narrow passages
+
+Exits away from
+rooms containing
+hazardous
+material
+
+❖ Extinguishing Systems
+
+Methods of fire protection:
+
+• Fixed extinguishing systems
+
+• Fire brigades
+
+• Fire extinguishers
+
+❖ Fire extinguishers
+Portable fire extinguisher training and education
+• All employees must be able to use fire extinguishers.
+• Hazards of incipient stage fire fighting
+• Operation of equipment (instruction and hands-on practice)
+• Required upon initial employment/assignment and at least annually there after
+Classes of fires:
+• Class A – ordinary combustibles (paper, wood, cloth)
+• Class B – flammable liquids (gasoline, paint) & gases (propane, butane)
+• Class C – energized electrical equipment (appliances, motors)
+• Class D – combustible metals (potassium, magnesium)
+• Class K – cooking oils and greases (animal fats, vegetable oils)
+Fire extinguishers do one or more of the following:
+• Remove heat
+• Displace/remove oxygen
+
+25 | P a g e
+
+• Stop chemical reaction
+
+Parts of fire extinguishers
+
+Types of Portable Fire extinguishers
+
+Large silver container, to 3 ft. tall, 25 lbs.
+2/3 water, 1/3 Pressured air
+Detergents may be added.
+Cool surface to remove heat
+
+Red cylinders, from 5 to 20 lbs.
+Contains a powder compressed by an unblameable
+gas
+Isolates the fuel and interrupt the chemical reaction.
+
+Red cylinders, from 5 to 100 lbs or larger, with a hard
+horn and no pressure gauge.
+Contains CO2 under extreme pressure, displace
+oxygen and dry ice has cool effect. Never use in
+confines space without respiratory protection
+for kitchen fires
+Used after turning on built in suppression system
+Used after turning off electricity as it is filled with
+conductive chemicals.
+Potassium bicarbonate may be used in dry types; wet
+chemical extinguishers spray a fine mist
+
+26 | P a g e
+
+How to use the extinguisher?
+• Sound alarm; call fire department
+• Identify safe evacuation path
+• Select appropriate fire extinguisher
+• Discharge extinguisher using P.A.S.S. technique (Pull, Aim, Squeeze, Sweep)
+• Back away once extinguished
+• Evacuate immediately if necessary
+• If Extinguisher empty and fire is not out
+• If Fire progresses beyond incipient stage
+P.A.S.S. technique
+• Pull the pin
+• Aim at base of fire
+• Squeeze handle
+• Sweep side-to-side at base of fire until fire appears out
+Watch area for re-ignition and repeat steps 2 – 4;
+When in doubt, EVACUATE IMMEDIATELY!
+Elements of inspection:
+▪ Inspect bottle, handle, hose, and gauge for proper working order
+▪ Inspection tag.
+Let you know the status of the fire extinguisher.
+• Month and Year put in service current (annual)
+• Monthly visual inspections completed (monthly)
+• Extinguisher product still free flowing inside bottle (turn upside down and/or shake)
+
+Lecture 8
+
+Hazards Categories in Workplace (cont’d)
+VIII.
+
+Noise Hazards
+
+❖ What is Noise?
+Sound that - One does not want to hear.
+- Varies randomly in intensity and frequency.
+- interferes with the reception of another sound (masking).
+
+❖ Negative Effects of Noise.
+- Noise Induced Hearing Loss (NIHL)
+- Noise can increase blood pressure. - Mental fatigue
+- Interference with communication can lead to accidents.
+
+27 | P a g e
+
+❖ What is Too Much Noise Exposure?
+- The risk of hearing loss increases as noise levels increase.
+- Exposure to noise levels above 115 decibels for even five
+minutes is very risky.
+- Impact or banging noise above 140 decibels will cause
+immediate damage to nerves in the ear.
+
+Examples of Noisy Equipment
+Equipment
+Backhoe
+Chain Saw
+Front-end Loader
+Gunshot
+Jackhammer
+Lawn Mower
+Tractor
+Circular Saw
+
+Noise Level
+85-95 decibels
+110 decibels
+90-95 decibels
+140 decibels
+112 decibels
+90 decibels
+95-105 decibels
+90-100 decibels
+
+❖ Audiometric Testing
+- Check employees’ hearing over time.
+- Baseline audiogram must be performed within first 6 months of work exposure (8 hour with
+Time Weighted Average (TWA) ≥ 85 dBA)
+- Annual audiograms are required each year after baseline audiogram.
+- Employer must pay for the cost of each required audiogram.
+- It is done by trained technicians to detect any hearing loss.
+- Identify occupational hearing loss
+
+❖ Risk Management in workplace noise.
+Step 1: Identification of Hazard (Noise Sources)
+❖ Common Noise Sources
+▪ Power press
+▪ Waste extraction fan
+▪ Electric motor
+▪ Banging and knocking of metal sheets
+▪ Grinding machine
+
+28 | P a g e
+
+▪
+▪
+▪
+▪
+▪
+
+Air compressor
+Ultrasonic welder
+CNC machine
+Milling machine
+Shearing machines
+
+Step 2: Assess the Workplace Noise
+❖ Noise Standards:
+▪ The Permissible Exposure Limit (PEL), 90 dBA for an 8-hour TWA.
+▪ The action level (AL), 85 dBA for an 8-hour TWA.
+❖ Combining noise from several sources.
+
+❖ TWA and Noise Level Calculation
+
+29 | P a g e
+
+Example
+
+Step 3: Select Measures to Control and Reduce Risk
+❖ Hierarchy of hazards control
+Hierarchy is a system in which members of an organization or
+society are ranked according to relative status or authority.
+
+❖ Control Noise in Workplace
+▪ Remove the Hazards.
+Replace the Noisy machine with less
+noise machines.
+▪ Guard the remaining hazards – Erect isolation enclosure - Machines Enclosure.
+Structure contains the noise source to protect the workers from noisy machines.
+▪ Damping
+Adding of vibration absorbing material to reduce vibrations which will reduce the noise.
+▪ Silencers
+Devices designed to remove air-borne sound waves that is used in pumps, compressors
+▪ Noise Barriers
+Consist of sheets of wood, plastics, aluminum or steel that reduce noise reaching staff.
+▪ Personnel Cabins
+When the source can’t be isolated, so you isolate who is in danger(the workers)
+▪ PPE – Mitigate impact of hazard (E.g. Operator to wear ear plugs or muffs)
+▪ Administrative Control
+a. Job rotation of workers
+b. Adding periods of quiet hours to the workday.
+c. Scheduling noisy work when few people is around.
+d. Notifying people in advance when noisy work is carried out.
+e. Posting warning signs of noisy areas.
+
+We have finally finished all the types of hazards in workplace.
+30 | P a g e
+
+Lecture 9
+
+Personal Protective Equipment (PPE)
+❖ Introduction
+As we studied before
+So, we need to control both hazard and exposure to reduce accident.
+• We Control hazards by engineering the workplace - design tools, equipment, machinery,
+materials, facilities.
+• We control exposures by managing work and workers.
+What are PPEs?
+PPEs are Devices used to protect an employees from injury or illness resulting from contact with
+chemical, radiological, physical, electrical, mechanical, or other workplace hazards
+The need for PPE and the type of PPE used is based on hazard present; each situation must be
+evaluated independently.
+
+❖ Federal OSHA Standard Overview
+•
+•
+•
+
+Must be applied to general industry.
+Governs the use, selection, maintenance, fit and disposal of Personal Protective Equipment
+Employers must assess hazards in their workplace and select appropriate PPE.
+
+Some Caveats
+• PPE is the last resort.
+• The use of PPE signifies that the hazard could not be controlled by other methods, such as:
+➢ administrative controls (i.e., shift rotation) ➢ engineering or industrial hygiene controls
+• Use of PPE means that the hazards still exist in the workplace.
+• Unprotected individuals in the same area will be exposed.
+• Failure of PPE means that the worker will be exposed.
+• PPE can be combined with other controls.
+❖ Types of PPEs (what part od the body it Protects)
+
+Eyes
+Face
+Head
+Ears
+Feet
+Hands and arms
+Protective clothing
+Body
+Airways / lungs
+
+31 | P a g e
+
+Goggles, Face shields,
+Safety glasses
+Face shield, Protective
+shields, Barriers
+Hard hat, Bump hat
+Earplugs, Earmuffs
+Safety shoes, Boots
+Gloves, Sleeve guards
+Vests, Safety suits, Safety
+jackets.
+Shields, Barriers, Restraints
+Respiratory devices.
+
+❖ Hazard Assessment.
+•
+•
+•
+•
+
+Evaluate every job function in every department.
+Determine if there is any hazards.
+Check for hazards to eyes, respirator system, head, feet, and hands.
+Determine which PPE should be used.
+
+❖ The types of Hazard Assessment and selecting the proper PPE.
+1. Eyes and Face Assessment
+Eyes and should be protected from:
+• Flying particles
+• Chemical gases or Vapors
+• Molten metal
+• Potentially injurious
+• Liquid chemicals
+• light radiation
+• Acid or caustic liquids
+Eye Protection
+•
+
+•
+•
+•
+•
+
+Common uses:
+Impact Protection
+➢ Chemical Hazards
+➢ Radiation Protection
+welder’s goggles
+laser goggles
+UV
+Infrared
+
+Selection
+•
+•
+•
+
+Face shields Provides the highest level of protection.
+Safety glasses protect the eye from flying objects.
+Chemical goggles Protect the eyes from chemical
+fluids by sealing tightly to the face.
+
+2. Respiratory Protection Hazard Assessment
+Assess the workplace if there is:
+• Inhalation of airborne dusts or particulates
+• Inhalation of chemical vapors or fumes
+• Lack of adequate oxygen
+• Identify the specific source(s) of respiratory hazard.
+• Review the work processes to determine the hazard source and magnitude.
+
+3. Head Hazard Assessment
+Head should be protected from the following hazards:
+• Falling objects
+• Exposed electrical conductors.
+• Low-hanging obstructions
+Selecting head protection
+• Hard hats protect from impact or penetration.
+• Use electrical insulation hard hats around electricity.
+• Use bump caps around low-hanging objects.
+• Must comply with ANSIZ89 standard.
+32 | P a g e
+
+Helmets are classified into:
+• A = General impact, 2200 volts protection
+• B = 20,000 volts protection
+• C = Bump protection, no electrical protection
+
+4. Foot hazard Assessment.
+•
+•
+•
+•
+•
+
+Falling, rolling, or sharp objects
+Electrical hazards
+Slippery walking surfaces
+Hazardous chemicals
+Cold weather conditions
+
+Foot and leg protection
+•
+•
+•
+•
+•
+•
+
+Protects from:
+Falling or rolling objects
+Objects piercing the sole
+Electrical hazards
+Molten metal
+Hot surfaces
+Slippery surfaces
+
+•
+•
+•
+•
+
+Types of protection provided.
+Impact protection.
+compression protection
+puncture protection
+Protects from molten metals and welding sparks
+
+Safety shoe parts:
+• Steel Toe protects your toes from falling
+objects.
+• Metatarsal has special guards that run from
+your ankle to your toes.
+• Reinforced sole has metal reinforcement that
+protects your foot from punctures.
+• Latex/Rubber resists chemicals and provides
+extra traction on slippery surfaces.
+Types of Safety Shoes
+According to their outsole
+Beta Ultra grip:
+• Multi-purpose
+• Self-cleaning sole
+• Superior slip resistance
+and traction
+
+33 | P a g e
+
+Cleated
+• Outdoor
+• On a variety of surfaces.
+• Reduces hydroplaning.
+Self-cleaning.
+
+Safety-Lok
+• Indoor or outdoor use
+• In smooth surfaces
+• Slip resistant.
+• Recommended on wet
+surfaces
+
+Chevron
+• Indoor and Outdoor
+• On hard surfaces
+Slip resistant
+
+5. Clothing Assessment
+•
+•
+•
+•
+•
+
+Hot or cold materials or objects
+Chemicals
+Welding hazards
+Heavy, sharp, or rough materials
+Moving machinery
+
+6. Ear hazard Assessment
+• Noise induced hearing loss can occur with exposures >90 dBA
+• A hearing conservation program becomes a requirement at exposures >85dBA
+• Higher levels of noise exposure have shorter allowable exposure times
+Hearing Protection – Types
+• Ear Plugs: • Less Expensive
+• Disposable
+• Good ones have high NRRs
+• Difficult to tell if employee wears ones
+• Earmuffs: • More Expensive
+• More durable
+• Higher NRRs
+• Obvious
+• Ear plugs and muffs can be used together in very noisy workplace.
+
+7. Arm/hand Protection
+•
+•
+•
+•
+•
+
+34 | P a g e
+
+Should be protected from Chemicals, extreme temperatures, and sharp objects.
+Injuries include cuts, abrasions, burns, amputations, shock, chemical absorption.
+Glove protection information Should be obtained from the manufacturer.
+Protection includes gloves, sleeves, hand pads, wristlets, etc.
+Rubber insulating equipment needed for electrical workers
+
+•
+
+Types of gloves:
+Disposable Gloves:
+•
+•
+•
+•
+
+•
+
+•
+
+•
+
+Chemical Resistance Gloves:
+•
+•
+•
+
+Protects against wide range of chemicals.
+Totally impermeable
+Can also be used to protect from cuts absorption and snags.
+
+•
+•
+
+Used in applications requiring high cleanliness.
+Found in electronic nuclear and pharmaceutical industries
+
+•
+
+Intended to help reduce hand injures due to snags, punctures,
+abrasion, and cuts.
+Not for chemicals unless other chemical gloves are worn as liners.
+
+Critical Environment Gloves
+
+General Purpose Gloves:
+
+•
+
+•
+
+•
+
+One time use
+Thin and flexible
+Have improved sensitivity and dexterity.
+Protect the employee from the material of the material from the employee.
+
+Temperature Resistant Gloves:
+•
+
+Provides protection from extreme temperatures.
+
+•
+•
+
+For electricity protection
+To assure adequate electric protection, properly rated lineman’s gloves
+should be selected.
+
+Lineman’s Gloves:
+
+35 | P a g e
+
+•
+
+How To Correctly remove chemically stained gloves
+
+8. Torso Protection
+•
+•
+•
+
+Hazards include heat, splashes from liquids, impacts, cuts, and radiation
+Injuries include heat burns, radiation burns, and chemical burns, lacerations, and
+abrasions.
+Equipment includes vests, jackets, aprons coveralls, and full body suits
+
+9. Respiratory Protection
+•
+•
+
+Protects users by removing harmful materials that may enter the body via the lungs
+Inhalation is one of the quickest, most efficient ways to introduce lethal levels of
+hazardous materials into the body.
+Types of Respirators:
+• Air Purifying Respirators (APR) :
+➢Half-face ➢Full Face
+• Powered Air Purifying Respirators (PAPR)
+• Self-Contained Breathing Apparatus (SCBA)
+
+36 | P a g e
+
+•
+
+Air-Purifying Protection
+• Protects workers from gases that may be harmful.
+• Propper filters and cartridges should be used.
+• This type of respirator should be used only if:
+o The concentration of the harmful gas is not exceeded for the mask.
+o oxygen is present in amounts greater than 19.5%
+o The atmosphere is NOT Immediately Dangerous to Life or Health
+• Mechanical Filter Elements:
+Provide protection by physically trapping it in the fibrous filter material.
+The filter contains an electrostatic charge the attracts particles toward it.
+As its effectiveness it should be changed when breathing gets hard.
+• Chemical Cartridge Elements
+Filled with specially treated active carbon.
+Should be changed when any taste is detected or with scheduled.
+
+10.
+
+Fall Protection
+•
+
+•
+
+37 | P a g e
+
+Consists of:
+Anchorage Connector
+Shock Absorbing Lanyard (Connectors)
+Full Body Harness
+The anchorage must be attached to a suitable and strong
+attachment point.
+
+11. Selecting General Work Clothing
+•
+•
+•
+•
+
+Long-sleeve shirts and long pants
+Flame-retardant clothing
+No loose clothing or jewelry
+Chemical-resistant clothing
+
+Safety Signs and Tags
+• industrial workers
+• the warning
+of
+• members of the public who
+• safety instructions
+may be exposed to hazards.
+
+•
+
+The word sign refers to a surface prepared for
+
+•
+
+News releases, displays commonly known as safety posters, and bulletins used for employee
+education are not safety signs.
+
+•
+
+Specifications for accident prevention signs and tags.
+o OSHA 1910.145 and ANSI Z535.2 applies to all signs related.
+o These specifications are intended to cover all safety signs except those designed for streets,
+highways, railroads, and marine regulations.
+o These specifications do not apply to plant bulletin boards or to safety posters.
+
+•
+
+OSHA 1910.145 classifies signs according to use into three categories:
+Danger signs
+o Warn of specific Dangers.
+o Radiation hazard.
+o Must all have the same
+type of design.
+o Used only with immediate
+danger.
+
+38 | P a g e
+
+Caution signs.
+o Warn of Potential
+hazards.
+o Warn of unsafe practices.
+
+Safety instruction signs.
+o Used for general
+instructions.
+o Used for suggestions
+relative to safety
+measures.
+
+•
+
+Accident Prevention signs are classified by ANSI Z535.2-2002 into eight classes:
+1. Danger: immediate hazard that if not avoided will lead to great injury or maybe death, it is
+limited to the most extreme situations.
+2. Warning: Potential hazard that if not avoided can lead to great injury or maybe death.
+3. Caution: Potential hazard that if not avoided may lead to minor or moderate injury
+- Also, can be used to alert of unsafe practices
+All the previous three classes of signs should not be used for the present of property
+damage risk, they can be only used for the personal injury risk.
+4. Notice: Indicates a statement of the safety policy of the company.
+- Should not be used in a hazardous situation.
+5. General Safety: Indicate general instructions relative to safe work practices, reminders of
+proper safety procedures, and the location of safety equipment.
+6. Fire Safety: Indicate the location of emergency firefighting equipment.
+7. Directional Arrow Signs: used to indicate the direction to emergency equipment, safety
+equipment, and other locations important to safety.
+8. Special Signs:
+
+•
+•
+•
+
+•
+•
+•
+•
+
+Now we will discuss the design of each category of signs on its own.
+1. Design of Danger Signs.
+There Should not be variation in the designs of danger signs.
+Employees should be instructed that danger signs means a high risk of major injury or death
+The colors red, black, and white shall be those of opaque glossy samples.
+
+2. Design of Warning sign
+The word “WARNING” in black letters on a rectangular orange at the top of the sign.
+The safety alert symbol should be before the “WARNING” word.
+The base of symbol should align the base of the letters and the height is equal or more than
+the height of the word.
+The message panel should be in black letters on a white background or white letters on
+black background.
+
+39 | P a g e
+
+•
+•
+
+•
+•
+•
+
+3. Design of Caution signs
+The “CAUTION” is in yellow letters with black background.
+Any other word shall be black in a yellow background.
+
+4. Design of Notice signs
+Notice headers provide information of a general type to avoid confusion.
+The message shall be in blue or black letters on a white background.
+The symbol/pictorial panel, if used, shall be square with a safety blue or black symbol on a
+white background. .
+
+•
+•
+•
+
+5. Design of General Safety signs
+“SAFETY FIRST,” “BE CAREFUL,” “THINK,” “SAFETY INSTRUCTIONS,” etc.
+The signal word in white letters and green rectangle at the top of the sign.
+The message in black, and white background
+
+•
+•
+•
+
+6. Design of Fire Safety signs
+do NOT have a signal word.
+The message shall be red on a white background.
+Symbol/Pictorial Panel -if used- shall be red on white or white on red.
+
+40 | P a g e
+
+•
+•
+
+7. Design of Directional Arrow Signs
+The arrow should be white on black or colored background.
+The arrow should be in the uppermost part of the sign.
+
+8. Special Signs
+•
+
+Slow-moving vehicle emblem.
+o Consists of a fluorescent yellow-orange triangle with a dark red
+reflective border.
+o Yellow-orange fluorescent triangle is visible in day-light and the
+red border creates a red lighting triangle at night out of reflecting
+the front light of other vehicles.
+o Used in the vehicles moving slowly by design (25 mph or less) in
+roads.
+• Piping systems shall be identified:
+o Pipes, fittings, valves, and pipe coverings
+
+•
+•
+•
+
+RF Radiation hazard warning
+Laser (Caution/Warning – According to ANSI Z535.2-2002)
+Ionizing radiation warning signs, labels, and signals shall contain the radiation symbol.
+
+41 | P a g e
+
+•
+
+Material Safety sigs:
+o The National Fire Protection Association (NFPA) Developed a hazard identification
+system for emergency responders.
+o The NFPA diamond provide a visual representation of the hazard type.
+
+o Meanings of the data displayed in each color:
+
+42 | P a g e
+
+❖ OSHA 1910.145 Accident Prevention Tags
+• What is tags?
+o Tags are used in hazardous conditions to warn the employees.
+o Made of paper, plastic, card, or other material.
+o Rectangular, not smaller than 3 in x 5 in (7.6 cm x 12.7 cm).
+o Corners may be square cut, chamfered, or rounded.
+•
+
+•
+
+When to use tags?
+• Prevent illness or injury of employees who are exposed to hazards or potentially
+hazardous conditions.
+• Equipment or operations that are not ordinary, not expected, not readily apparent.
+• Should be used till the hazard is eliminated.
+• Tags are not needed when signs or guarding are used (Just one thing to warn of hazard)
+General Design of tags
+The signal
+word.
+
+Major
+Message
+
+Categories of tags and their uses:
+Category
+
+Use
+
+Danger Tags
+
+immediate hazard presents a threat of death or serious
+injury to employees.
+
+Color
+Red with letters in
+contrasting color
+
+Caution Tags
+
+Minor hazard, presents a lesser threat of
+employee injury.
+
+Yellow with letters in
+contrasting color
+
+Warning Tags
+
+Hazard level between caution and danger
+
+Orange with letters in
+contrasting color
+
+Radiation
+hazard tags
+
+Anything that contains or is contaminated with
+hazardous radiation hazards.
+
+Biological
+Hazard tags
+
+identify the actual or potential presence of a biological
+hazard
+
+43 | P a g e
+
+Background: yellow
+Panel: reddish-purple
+Letters: Black
+The radiation symbol
+must be displayed.
+The radiation symbol
+must be displayed.
+The Biological symbol
+must be displayed.
+
+•
+
+Other Tags:
+Other tags can be used if the condition does not meet any of the previous descriptions.
+
+Control of hazardous energy sources Lockout/tagout standards, methods, and devices
+❖ Hazardous Energy.
+▪ Is any type of energy that is enough to cause injury to a worker.
+▪ Common sources: Electricity, Mechanical Motion, pressured air, and extreme temperatures
+▪ May occur in the installation or repair of any of any machine or equipment.
+• Employer Responsibility
+▪ Shall establish an energy control consisting of:
+➢ energy control procedures
+➢ employee training
+➢ periodic inspections.
+• The program should ensure that before any operation are made on any machine or
+equipment that contains hazardous energy, the machine MUST be isolated from any power
+source.
+❖ Lockout/Tagout
+▪ refers to specific practices and procedures to safeguard employees from the unexpected
+energization or startup of machinery and equipment, or the release of hazardous energy
+during service or maintenance activities.
+1. Lockout:
+• Is the process of isolating an equipment from a power source until lock is removed.
+• The lock out device is any device like lock, block, or chain that keeps a switch in OFF.
+2. Tagout:
+• Used to indicate that there is a process in going on a specific equipment or machine so it
+is disconnected from electricity (Isolated) and it will not be operating till the tagout is
+removed.
+• Tagout device must clearly state the tagout message.
+Valve lockout/tagout.
+Electrical lockout/tagout.
+
+Contains of Lockout/tagout center.
+• Keyed padlocks (two each of blue, gold, green and red)
+• Valve cover
+• Plug locks, one small plug lock.
+• Lockout checklist forms • Hasps
+• "Do Not Start" tags
+• "Danger" magnetic signs,
+• Cable ties
+• Copy of OSHA Standard 1910.147.
+• 1910.147.
+44 | P a g e
+
+❖ Hazardous Materials Transportation.
+• Department of Transportation (DOT) requirement.
+▪ Knowing the general regulations and Job specific requirements
+▪ Identify hazardous Materials, and how to prevent it.
+
+•
+
+OSHA 49 CFR 172.101 created naming system to identify the hazardous materials:
+
+•
+
+DOT and the United Nations (UN) divide the hazardous materials into 9 classes:
+Class 1: explosive
+
+•
+
+Subdivided into 6 sections.
+1.1 - Mass explosion hazard
+1.2 - Projectile hazard
+1.3 - Fire, minor blast or projectile
+1.4 - Minor explosion
+1.5 - Very insensitive explosives
+1.6 - Extremely insensitive
+
+•
+•
+
+•
+
+Note: the class number in the bottom of the lapel
+
+Explosives include:
+sporting ammunition
+blasting charges and detonators
+fireworks
+
+Class 2: gasses (compressed, liquefied, or dissolved under pressure)
+Hazard due to the high pressure contained.
+Three Subdivisions:
+1.1 - Flammable gases (Red)
+2.2 - Non-Flammable, Non-Poisonous (green)
+2.3 - Poisonous Gases (white)
+
+Class 3: flammable liquids
+• Flammable liquids can be ignited in room temperature.
+• Combustible Liquids require some degree of pre-heating to ignite.
+• Number 1 rule - eliminate ignition sources.
+Class 4: flammable solids or substances
+4.1 - Flammable Solids
+4.2 - Spontaneously Combustibl e
+4.3 - Dangerous when wet.
+Class 5: oxidizers
+• With strong fuels, oxidizers can create conditions which can lead to violent combustion.
+• Many Organic Peroxides are very unstable.
+45 | P a g e
+
+•
+•
+
+•
+•
+•
+•
+
+•
+
+Class 6: poisonous or infectious substances.
+Poisonous: Can include severely irritating substances. “Tear Gas”, Hydrocyanic acid, Carbon Tetrachloride.
+Infectious substances: that can cause diseases to human like blood or any body fluids.
+Class 7: radioactive substances
+Shipped in specialized containers.
+Exposure does not always result in contamination.
+Safety Rules: Time, Distance and Shielding
+Class 8: corrosives
+Materials which cause destruction to human skin tissue or a liquid that has a severe corrosion
+effect on meals. – reacts with steel and aluminum.
+Class 9: miscellaneous dangerous substances
+Not any of the previous categories
+ORM A - Dry Ice
+ORM B - Quick Lime, Metallic mercury
+ORM C - Asphalt, Battery parts
+ORM D - Consumer commodities
+ORM E - Hazardous substances and hazardous wastes
+
+You are the first responsible of your safety.
+
+46 | P a g e
+
+
