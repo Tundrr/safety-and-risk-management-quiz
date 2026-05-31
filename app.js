@@ -508,18 +508,8 @@ function renderTFOptions(question, savedAnswer) {
     showExplanationBox(savedAnswer.isCorrect, question.explanation);
     nextBtn.disabled = false;
   } else {
-    // Rebind fresh listeners using clone to remove any legacy ones
-    const newTrue = tfTrueBtn.cloneNode(true);
-    const newFalse = tfFalseBtn.cloneNode(true);
-    
-    tfTrueBtn.parentNode.replaceChild(newTrue, tfTrueBtn);
-    tfFalseBtn.parentNode.replaceChild(newFalse, tfFalseBtn);
-    
-    tfTrueBtn = document.getElementById('tfTrueBtn');
-    tfFalseBtn = document.getElementById('tfFalseBtn');
-    
-    tfTrueBtn.addEventListener('click', () => handleChoiceSelection(tfTrueBtn, 'T', question));
-    tfFalseBtn.addEventListener('click', () => handleChoiceSelection(tfFalseBtn, 'F', question));
+    tfTrueBtn.onclick = () => handleChoiceSelection(tfTrueBtn, 'T', question);
+    tfFalseBtn.onclick = () => handleChoiceSelection(tfFalseBtn, 'F', question);
   }
 }
 
@@ -632,28 +622,15 @@ function renderOpenEnded(question, savedAnswer) {
       gradeCompleteBtn.className = 'btn btn-success-light';
       gradeReviewBtn.className = 'btn btn-error-light';
       
-      // Remove and rebind event listeners
-      const newComplete = gradeCompleteBtn.cloneNode(true);
-      const newReview = gradeReviewBtn.cloneNode(true);
-      gradeCompleteBtn.parentNode.replaceChild(newComplete, gradeCompleteBtn);
-      gradeReviewBtn.parentNode.replaceChild(newReview, gradeReviewBtn);
-      
-      const reboundComplete = document.getElementById('gradeCompleteBtn');
-      const reboundReview = document.getElementById('gradeReviewBtn');
-      
-      reboundComplete.addEventListener('click', () => finalizeOpenEndedSelfGrade(true, question.id));
-      reboundReview.addEventListener('click', () => finalizeOpenEndedSelfGrade(false, question.id));
+      gradeCompleteBtn.onclick = () => finalizeOpenEndedSelfGrade(true, question.id);
+      gradeReviewBtn.onclick = () => finalizeOpenEndedSelfGrade(false, question.id);
     }
   } else {
     openEndedReviewBox.style.display = 'none';
     revealOpenAnswerBtn.style.display = 'block';
     
-    // Bind reveal button click once
-    const newReveal = revealOpenAnswerBtn.cloneNode(true);
-    revealOpenAnswerBtn.parentNode.replaceChild(newReveal, revealOpenAnswerBtn);
-    const reboundReveal = document.getElementById('revealOpenAnswerBtn');
-    
-    reboundReveal.addEventListener('click', () => {
+    // Bind reveal button click
+    revealOpenAnswerBtn.onclick = () => {
       const val = essayAnswerInput.value.trim();
       if (!val) {
         alert("Please draft your answer in the text box before revealing the model answer.");
@@ -670,7 +647,7 @@ function renderOpenEnded(question, savedAnswer) {
       
       saveProgress();
       renderQuestion(); // Re-render to show checklists
-    });
+    };
   }
 }
 
